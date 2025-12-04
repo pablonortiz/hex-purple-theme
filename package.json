@@ -1,0 +1,32 @@
+{
+  "name": "hex-purple",
+  "displayName": "Hex Purple",
+  "description": "A dark theme with purple accents and vibrant syntax highlighting",
+  "version": "0.0.1",
+  "publisher": "your-publisher-name",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/hex-purple"
+  },
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "purple",
+    "color-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hex Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hex-purple-color-theme.json"
+      }
+    ]
+  }
+}
