@@ -1,5 +1,8 @@
 # Hex Purple Theme
 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Theme](https://img.shields.io/badge/Theme-purple?style=for-the-badge)
+
 A dark VSCode theme with purple accents and vibrant syntax highlighting.
 
 ![Theme Preview](preview.png)
